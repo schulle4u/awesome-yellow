@@ -9,6 +9,8 @@ A curated list of websites made with Datenstrom Yellow.
 
 ## About
 
+Datenstrom Yellow is for people who make small websites. 
+
 This list showcases websites and projects that were created using Datenstrom Yellow.
 The aim is to demonstrate what you can do with the CMS, and to inspire other users.
 
@@ -22,9 +24,18 @@ Want your website to be listed? [How to contribute](#how-to-contribute).
 
 From one-pagers to extensive product portfolios.
 
+* **[Datenstrom](https://datenstrom.se)** - Datenstrom is a technology manufacturer from Sweden.
+* **[DroidBlind](https://droidblind.de)** - a german-language website for blind android users.  
+  *Additional notes:* Uses Wittstock theme and experimental extensions.
+* **[M45 Development](https://m45.dev)** - Software for the niche, made in the east of germany.  
+  *Additional notes:* Multi-language de/en, uses Wittstock theme and experimental extensions.
+
 ### Blogs
 
 These websites primarily feature a regularly updated weblog.
+
+* **[Pftnhr.xyz](https://pftnhr.xyz)** - A german-language microblog by Robert Pfotenhauer.
+* **[Robbenradio.de](https://robbenradio.de) - German-language website by Steffen Schultz.
 
 ### Wikis
 
