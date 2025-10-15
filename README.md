@@ -55,9 +55,9 @@ Here's how you can add your website to the list:
       * **[Website name](https://example.com)** — Short description.  
         *Additional notes (optional):* Which extensions, themes, multi-language, static website etc.
       ```
-      - Only websites that are **publicly accessible** are accepted, no pure demo sites or local instances.
-      - Please use **meaningful descriptions** (1–2 sentences).
-      - Make sure that items are sorted alphabetically within the categories.
+    - Only websites that are **publicly accessible** are accepted, no pure demo sites or local instances.
+    - Please use **meaningful descriptions** (1–2 sentences).
+    - Make sure that items are sorted alphabetically within the categories.
 3. Create a **pull request** with a short description of your change.
 
 ---
