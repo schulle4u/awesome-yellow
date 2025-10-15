@@ -35,7 +35,7 @@ From one-pagers to extensive product portfolios.
 These websites primarily feature a regularly updated weblog.
 
 * **[Pftnhr.xyz](https://pftnhr.xyz)** - A german-language microblog by Robert Pfotenhauer.
-* **[Robbenradio.de](https://robbenradio.de) - German-language website by Steffen Schultz.
+* **[Robbenradio.de](https://robbenradio.de)** - German-language website by Steffen Schultz.
 
 ### Wikis
 
