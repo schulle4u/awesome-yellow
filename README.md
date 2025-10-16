@@ -27,9 +27,9 @@ From one-pagers to extensive product portfolios.
 * **[Datenstrom](https://datenstrom.se)** - Datenstrom is a technology manufacturer from Sweden.
 * **[DroidBlind](https://droidblind.de)** - a german-language website for blind android users.  
   *Additional notes:* Uses Wittstock theme and experimental extensions.
+* **[Filosofia TorVergata](https://mondodomani.org/filosofiatorvergata/)** - An italian website for studying philosophy at the university.
 * **[M45 Development](https://m45.dev)** - Software for the niche, made in the east of germany.  
   *Additional notes:* Multi-language de/en, uses Wittstock theme and experimental extensions.
-* **[Filosofia TorVergata](https://mondodomani.org/filosofiatorvergata/)** - An italian website for studying philosophy at the university.
 
 ### Blogs
 
