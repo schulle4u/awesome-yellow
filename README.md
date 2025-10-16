@@ -55,6 +55,8 @@ Here's how you can add your website to the list:
     - Make sure that items have the same format, and are sorted alphabetically within the categories. Additional notes are optional.
 3. Create a **pull request** with a short description of your change.
 
+Alternatively you can open an issue and provide the necessary information there. 
+
 ---
 
 ## License
