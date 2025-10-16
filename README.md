@@ -29,6 +29,7 @@ From one-pagers to extensive product portfolios.
   *Additional notes:* Uses Wittstock theme and experimental extensions.
 * **[M45 Development](https://m45.dev)** - Software for the niche, made in the east of germany.  
   *Additional notes:* Multi-language de/en, uses Wittstock theme and experimental extensions.
+* **[Filosofia TorVergata](https://mondodomani.org/filosofiatorvergata/)** - An italian website for studying philosophy at the university.
 
 ### Blogs
 
@@ -36,6 +37,13 @@ These websites primarily feature a regularly updated weblog.
 
 * **[Pftnhr.xyz](https://pftnhr.xyz)** - A german-language microblog by Robert Pfotenhauer.
 * **[Robbenradio.de](https://robbenradio.de)** - German-language website by Steffen Schultz.
+
+### Journals
+
+Websites for sharing articles, documents and files.
+
+* **[Dialegesthai](https://mondodomani.org/dialegesthai/)** - Online journal of philosophy from Italy.  
+  *Additional notes:* With over 1000 pages one of the bigger websites on this list.
 
 ### Wikis
 
