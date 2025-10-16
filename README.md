@@ -45,19 +45,14 @@ Websites for sharing knowledge in a wiki.
 
 ## How to contribute
 
-Contributions are **very welcome**! ❤️
+Contributions are **very welcome**! ❤️ 
 Here's how you can add your website to the list:
 
 1. **Fork** this repository in your GitHub account.
 2. Add your entry to the appropriate category in `README.md`.
-    - Format:
-      ```markdown
-      * **[Website name](https://example.com)** — Short description.  
-        *Additional notes (optional):* Which extensions, themes, multi-language, static website etc.
-      ```
     - Only websites that are **publicly accessible** are accepted, no pure demo sites or local instances.
     - Please use **meaningful descriptions** (1–2 sentences).
-    - Make sure that items are sorted alphabetically within the categories.
+    - Make sure that items have the same format, and are sorted alphabetically within the categories. Additional notes are optional.
 3. Create a **pull request** with a short description of your change.
 
 ---
