@@ -37,9 +37,9 @@ From one-pagers to extensive product portfolios.
 
 These websites primarily feature a regularly updated weblog.
 
-* **[vomran.de](https://vomran.de/)** - A German-language personal blog by Hendrik Hasse.
 * **[Pftnhr.xyz](https://pftnhr.xyz)** - A german-language microblog by Robert Pfotenhauer.
 * **[Robbenradio.de](https://robbenradio.de)** - German-language website by Steffen Schultz.
+* **[vomran.de](https://vomran.de/)** - A German-language personal blog by Hendrik Hasse.
 
 ### Journals
 
