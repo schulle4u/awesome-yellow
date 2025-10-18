@@ -28,6 +28,7 @@ From one-pagers to extensive product portfolios.
 * **[DroidBlind](https://droidblind.de)** - a german-language website for blind android users.  
   *Additional notes:* Uses Wittstock theme and experimental extensions.
 * **[Elektronikmuseum Tettnang](https://www.emuseum-tettnang.de/)** - Family-friendly museum for electronic devices in Germany.
+* **[entdecker*design](https://entdecker-design.de/)** - German design agency website.
 * **[Filosofia TorVergata](https://mondodomani.org/filosofiatorvergata/)** - Italian website for studying philosophy at the university in Rome.
 * **[M45 Development](https://m45.dev)** - Software for the niche, made in the east of germany.  
   *Additional notes:* Multi-language de/en, uses Wittstock theme and experimental extensions.
