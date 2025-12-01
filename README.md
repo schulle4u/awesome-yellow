@@ -24,6 +24,7 @@ Want your website to be listed? [How to contribute](#how-to-contribute).
 
 From one-pagers to extensive product portfolios.
 
+* **[Arnan de Gans](https://www.arnan.me)** - Little how-to’s. Travel related stories and info. Photos and technology related ramblings and opinions.
 * **[Datenstrom](https://datenstrom.se)** - Datenstrom is a technology manufacturer from Sweden.
 * **[DroidBlind](https://droidblind.de)** - a german-language website for blind android users.  
   *Additional notes:* Uses Wittstock theme and experimental extensions.
