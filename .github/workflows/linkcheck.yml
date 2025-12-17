@@ -13,4 +13,4 @@ jobs:
         uses: paramt/url-checker@master
         with:
           files: "README.md"
-          blacklist: "README.md,https://github.com/schulle4u/awesome-yellow/blob/master/LICENSE,https://awesome.re,https://awesome.re/badge.svg,https://img.shields.io/badge/License-CC0-blue.svg,https://creativecommons.org/publicdomain/zero/1.0/,https://example.com,https://github.com/sindresorhus/awesome,bva.dyndns.info,pftnhr.xyz,Robbenradio.de,vomran.de"
+          blacklist: "README.md,https://github.com/schulle4u/awesome-yellow/blob/main/LICENSE,https://awesome.re,https://awesome.re/badge.svg,https://img.shields.io/badge/License-CC0-blue.svg,https://creativecommons.org/publicdomain/zero/1.0/,https://example.com,https://github.com/sindresorhus/awesome"

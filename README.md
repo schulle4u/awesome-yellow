@@ -38,11 +38,11 @@ From one-pagers to extensive product portfolios.
 
 These websites primarily feature a regularly updated weblog.
 
-* **[bva.dyndns.info](https://bva.dyndns.info)** - a blog in Russian language by Viacheslav Bulynkin. Mostly about IT, devops and sysadmin stuff.
-* **[lifeofpablo.com](https://lifeofpablo.com)** - an IT nerd who enjoys physical & analog media, enjoys traveling and new song recommendations.
-* **[pftnhr.xyz](https://pftnhr.xyz)** - A german-language microblog by Robert Pfotenhauer.
-* **[Robbenradio.de](https://robbenradio.de)** - German-language website by Steffen Schultz.
-* **[vomran.de](https://vomran.de/)** - A German-language personal blog by Hendrik Hasse.
+* **[Hendrik Hasse](https://vomran.de/)** - A German-language personal blog.
+* **[Pablo Morales](https://lifeofpablo.com)** - an IT nerd who enjoys physical & analog media, enjoys traveling and new song recommendations.
+* **[Robert Pfotenhauer](https://pftnhr.xyz)** - A german-language microblog.
+* **[Steffen Schultz](https://robbenradio.de)** - German-language website.
+* **[Viacheslav Bulynkin](https://bva.dyndns.info)** - a blog in Russian language. Mostly about IT, devops and sysadmin stuff.
 
 ### Journals
 
@@ -67,6 +67,7 @@ Here's how you can add your website to the list:
 1. **Fork** this repository in your GitHub account.
 2. Add your entry to the appropriate category in `README.md`.
     - Only websites that are **publicly accessible** are accepted, no pure demo sites or local instances.
+    - Please don't use the domain name as link title, if possible.
     - Please use **meaningful descriptions** (1–2 sentences).
     - Make sure that items have the same format, and are sorted alphabetically within the categories. Additional notes are optional.
 3. Create a **pull request** with a short description of your change.
