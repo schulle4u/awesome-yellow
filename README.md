@@ -22,7 +22,7 @@ Want your website to be listed? [How to contribute](#how-to-contribute).
 
 ### General websites
 
-From one-pagers to extensive product portfolios.
+From personal websites to extensive product portfolios.
 
 * **[Arnan de Gans](https://www.arnan.me)** - Little how-to’s. Travel related stories and info. Photos and technology related ramblings and opinions.
 * **[Datenstrom](https://datenstrom.se)** - Datenstrom is a technology manufacturer from Sweden.
@@ -33,6 +33,13 @@ From one-pagers to extensive product portfolios.
 * **[Filosofia TorVergata](https://mondodomani.org/filosofiatorvergata/)** - Italian website for studying philosophy at the university in Rome.
 * **[M45 Development](https://m45.dev)** - Software for the niche, made in the east of germany.  
   *Additional notes:* Multi-language de/en, uses Wittstock theme and experimental extensions.
+
+### One-pagers
+
+Beautiful landing pages made with Yellow.
+
+* **[Roland Grün](https://rgruen.de)** - editor, author, and writer from germany.
+* **[Sparta Cykel](https://spartacykel.com/)** - bike shop in Lund, sweden.
 
 ### Blogs
 
