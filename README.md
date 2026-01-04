@@ -24,7 +24,6 @@ Want your website to be listed? [How to contribute](#how-to-contribute).
 
 From personal websites to extensive product portfolios.
 
-* **[Arnan de Gans](https://www.arnan.me)** - Little how-to’s. Travel related stories and info. Photos and technology related ramblings and opinions.
 * **[Datenstrom](https://datenstrom.se)** - Datenstrom is a technology manufacturer from Sweden.
 * **[DroidBlind](https://droidblind.de)** - a german-language website for blind android users.  
   *Additional notes:* Uses Wittstock theme and experimental extensions.
@@ -45,6 +44,7 @@ Beautiful landing pages made with Yellow.
 
 These websites primarily feature a regularly updated weblog.
 
+* **[Arnan de Gans](https://www.arnan.me)** - Little how-to’s. Travel related stories and info. Photos and technology related ramblings and opinions.
 * **[Hendrik Hasse](https://vomran.de/)** - A German-language personal blog.
 * **[Pablo Morales](https://lifeofpablo.com)** - an IT nerd who enjoys physical & analog media, enjoys traveling and new song recommendations.
 * **[Robert Pfotenhauer](https://pftnhr.xyz)** - A german-language microblog.
