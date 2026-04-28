@@ -30,6 +30,7 @@ From personal websites to extensive product portfolios.
 * **[DXR](https://dxr.rocks/)** - German design agency website.
 * **[Elektronikmuseum Tettnang](https://www.emuseum-tettnang.de/)** - Family-friendly museum for electronic devices in Germany.
 * **[Filosofia TorVergata](https://mondodomani.org/filosofiatorvergata/)** - Italian website for studying philosophy at the university in Rome.
+* **[Frohsinn Hofheim](https://frohsinnhofheim.de/)** - community association website from Hofheim, germany.
 * **[M45 Development](https://m45.dev)** - Software for the niche, made in the east of germany.  
   *Additional notes:* Multi-language de/en, uses Wittstock theme and experimental extensions.
 
