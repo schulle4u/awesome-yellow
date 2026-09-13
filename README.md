@@ -47,7 +47,7 @@ These websites primarily feature a regularly updated weblog.
 
 * **[Hendrik Hasse](https://vomran.de/)** - A German-language personal blog.
 * **[Pablo Morales](https://lifeofpablo.com)** - an IT nerd who enjoys physical & analog media, enjoys traveling and new song recommendations.
-* **[Robert Pfotenhauer](https://pftnhr.xyz)** - A german-language microblog.
+* **[Robert Pfotenhauer](https://pftn.hr/)** - A german-language microblog.
 * **[Steffen Schultz](https://robbenradio.de)** - German-language website.
 * **[The Pipes](https://thepipes.ch/)** - Blog by Miriam and Simon from Switzerland.
 * **[Viacheslav Bulynkin](https://bva.dyndns.info)** - a blog in Russian language. Mostly about IT, devops and sysadmin stuff.
