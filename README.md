@@ -64,7 +64,7 @@ Websites for sharing articles, documents and files.
 Websites for sharing knowledge in a wiki.
 
 * **[juhrb1](https://juhrb.in/)** - A personal wiki about art, music and cinema from France.
-* **[Louis-Bar-Syndrom.info](https://louis-bar-syndrom.info)** - An information page about Louis-Bar-Syndrom in German. 
+* **[Louis-Bar-Syndrom](https://louis-bar-syndrom.info)** - An information page about Louis-Bar-Syndrom in German. 
 
 ---
 
