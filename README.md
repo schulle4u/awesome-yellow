@@ -33,6 +33,7 @@ From personal websites to extensive product portfolios.
 * **[Frohsinn Hofheim](https://frohsinnhofheim.de/)** - community association website from Hofheim, germany.
 * **[M45 Development](https://m45.dev)** - Software for the niche, made in the east of germany.  
   *Additional notes:* Multi-language de/en, uses Wittstock theme and experimental extensions.
+* **[Mytago](https://www.mytago.cz/)** - The website of a Czech publisher specializing in gamebooks and tabletop role-playing games (RPGs). It also includes a newsletter, a blog and information about where you can buy their products.
 
 ### One-pagers
 
@@ -46,10 +47,12 @@ Beautiful landing pages made with Yellow.
 These websites primarily feature a regularly updated weblog.
 
 * **[Hendrik Hasse](https://vomran.de/)** - A German-language personal blog.
+* **[Monica's Home](https://cellio.org/)** - Blog by Monica Cellio.
 * **[Pablo Morales](https://lifeofpablo.com)** - an IT nerd who enjoys physical & analog media, enjoys traveling and new song recommendations.
 * **[Steffen Schultz](https://robbenradio.de)** - German-language website.
 * **[The Pipes](https://thepipes.ch/)** - Blog by Miriam and Simon from Switzerland.
 * **[Viacheslav Bulynkin](https://bva.dyndns.info)** - a blog in Russian language. Mostly about IT, devops and sysadmin stuff.
+* **[Unokay Comics](https://unokay.com/)** - A webcomic series that follows the lives of stranded 1970s Daleks, dog-headed police officers, and mischievous cats.
 
 ### Journals
 
