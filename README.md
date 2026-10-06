@@ -46,10 +46,10 @@ Beautiful landing pages made with Yellow.
 
 These websites primarily feature a regularly updated weblog.
 
-* **[Hendrik Hasse](https://vomran.de/)** - A German-language personal blog.
-* **[Monica's Home](https://cellio.org/)** - Blog by Monica Cellio.
+* **[Hendrik Hasse](https://vomran.de/)** - A blog about trivialities and everyday life in pictures and words.
+* **[Monica's Home](https://cellio.org/)** - Blog by Monica Cellio. Her thoughts on life, society, technology and also travel photos.
 * **[Pablo Morales](https://lifeofpablo.com)** - an IT nerd who enjoys physical & analog media, enjoys traveling and new song recommendations.
-* **[Steffen Schultz](https://robbenradio.de)** - German-language website.
+* **[Robbenradio](https://robbenradio.de)** - A personal blog by Steffen Schultz that brings together his web and audio projects, mainly focused on radio and podcast.
 * **[The Pipes](https://thepipes.ch/)** - Blog by Miriam and Simon from Switzerland.
 * **[Viacheslav Bulynkin](https://bva.dyndns.info)** - a blog in Russian language. Mostly about IT, devops and sysadmin stuff.
 * **[Unokay Comics](https://unokay.com/)** - A webcomic series that follows the lives of stranded 1970s Daleks, dog-headed police officers, and mischievous cats.
